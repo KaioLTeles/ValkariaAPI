@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b9b12458-69a1-4ea3-a88b-341e9b45e325": {
+      "ProjectGuid": "b9b12458-69a1-4ea3-a88b-341e9b45e325",
+      "DisplayName": "Valkaria.API",
+      "ColorIndex": 0
+    },
+    "a21ceb33-ff76-445a-bd68-14fe65ab7404": {
+      "ProjectGuid": "a21ceb33-ff76-445a-bd68-14fe65ab7404",
+      "DisplayName": "Valkaria.Core",
+      "ColorIndex": 1
+    },
+    "8dec4ffb-07b7-4456-bac3-a97e1d9d94b5": {
+      "ProjectGuid": "8dec4ffb-07b7-4456-bac3-a97e1d9d94b5",
+      "DisplayName": "Valkaria.Infrastructure.Persistence",
+      "ColorIndex": 2
+    },
+    "b344f9e7-2c6c-4099-af76-2dab15a3a5f1": {
+      "ProjectGuid": "b344f9e7-2c6c-4099-af76-2dab15a3a5f1",
+      "DisplayName": "Valkaria.Application",
+      "ColorIndex": 3
+    },
+    "6fe2f8f7-f19d-4434-ae16-b140dc884f10": {
+      "ProjectGuid": "6fe2f8f7-f19d-4434-ae16-b140dc884f10",
+      "DisplayName": "Valkaria.Tests",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "8c86cf83-0f8e-4b70-9a53-2f5dbef8af9a": {
+      "ProjectGuid": "8c86cf83-0f8e-4b70-9a53-2f5dbef8af9a",
+      "DisplayName": "Valkaria.API",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

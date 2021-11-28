@@ -1,0 +1,11 @@
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\bin\Debug\net6.0\Valkaria.Application.deps.json
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\bin\Debug\net6.0\Valkaria.Application.dll
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\bin\Debug\net6.0\ref\Valkaria.Application.dll
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\bin\Debug\net6.0\Valkaria.Application.pdb
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\obj\Debug\net6.0\Valkaria.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\obj\Debug\net6.0\Valkaria.Application.AssemblyInfoInputs.cache
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\obj\Debug\net6.0\Valkaria.Application.AssemblyInfo.cs
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\obj\Debug\net6.0\Valkaria.Application.csproj.CoreCompileInputs.cache
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\obj\Debug\net6.0\Valkaria.Application.dll
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\obj\Debug\net6.0\ref\Valkaria.Application.dll
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\obj\Debug\net6.0\Valkaria.Application.pdb

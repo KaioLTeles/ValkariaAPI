@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ValkariaAPI",
+    "\\ValkariaAPI\\Valkaria.Infrastructure.Persistence"
+  ],
+  "SelectedNode": "\\ValkariaAPI\\Valkaria.Infrastructure.Persistence\\ValkariaDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}

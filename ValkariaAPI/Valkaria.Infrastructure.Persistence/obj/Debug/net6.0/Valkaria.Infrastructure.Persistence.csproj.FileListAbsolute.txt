@@ -1,0 +1,11 @@
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Infrastructure.Persistence\bin\Debug\net6.0\Valkaria.Infrastructure.Persistence.deps.json
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Infrastructure.Persistence\bin\Debug\net6.0\Valkaria.Infrastructure.Persistence.dll
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Infrastructure.Persistence\bin\Debug\net6.0\ref\Valkaria.Infrastructure.Persistence.dll
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Infrastructure.Persistence\bin\Debug\net6.0\Valkaria.Infrastructure.Persistence.pdb
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Infrastructure.Persistence\obj\Debug\net6.0\Valkaria.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Infrastructure.Persistence\obj\Debug\net6.0\Valkaria.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Infrastructure.Persistence\obj\Debug\net6.0\Valkaria.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Infrastructure.Persistence\obj\Debug\net6.0\Valkaria.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Infrastructure.Persistence\obj\Debug\net6.0\Valkaria.Infrastructure.Persistence.dll
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Infrastructure.Persistence\obj\Debug\net6.0\ref\Valkaria.Infrastructure.Persistence.dll
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Infrastructure.Persistence\obj\Debug\net6.0\Valkaria.Infrastructure.Persistence.pdb
