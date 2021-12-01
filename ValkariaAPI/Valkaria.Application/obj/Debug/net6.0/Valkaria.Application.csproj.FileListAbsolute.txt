@@ -9,3 +9,7 @@ C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\obj\Deb
 C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\obj\Debug\net6.0\Valkaria.Application.dll
 C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\obj\Debug\net6.0\ref\Valkaria.Application.dll
 C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\obj\Debug\net6.0\Valkaria.Application.pdb
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\obj\Debug\net6.0\Valkaria.Application.csproj.AssemblyReference.cache
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\bin\Debug\net6.0\Valkaria.Core.dll
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\bin\Debug\net6.0\Valkaria.Core.pdb
+C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Application\obj\Debug\net6.0\Valkaria.Application.csproj.CopyComplete

@@ -6,4 +6,19 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Commands\CreateParty\" />
+    <Folder Include="Commands\SubscribeParty\" />
+    <Folder Include="Queries\GetParty\" />
+    <Folder Include="Queries\SearchParty\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Valkaria.Core\Valkaria.Core.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -35,7 +35,12 @@
       "ProjectGuid": "8c86cf83-0f8e-4b70-9a53-2f5dbef8af9a",
       "DisplayName": "Valkaria.API",
       "ColorIndex": 5
+    },
+    "182e6732-435a-4892-85f3-f91c2f45e018": {
+      "ProjectGuid": "182e6732-435a-4892-85f3-f91c2f45e018",
+      "DisplayName": "Valkaria.API",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }
