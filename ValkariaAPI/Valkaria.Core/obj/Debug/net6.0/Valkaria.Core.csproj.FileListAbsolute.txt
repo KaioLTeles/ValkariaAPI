@@ -9,3 +9,15 @@ C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Core\obj\Debug\net6
 C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Core\obj\Debug\net6.0\Valkaria.Core.dll
 C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Core\obj\Debug\net6.0\ref\Valkaria.Core.dll
 C:\Repositorios\git Pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Core\obj\Debug\net6.0\Valkaria.Core.pdb
+D:\Kaio\Repositorios\git pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Core\bin\Debug\net6.0\Valkaria.Core.deps.json
+D:\Kaio\Repositorios\git pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Core\bin\Debug\net6.0\Valkaria.Core.dll
+D:\Kaio\Repositorios\git pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Core\bin\Debug\net6.0\ref\Valkaria.Core.dll
+D:\Kaio\Repositorios\git pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Core\bin\Debug\net6.0\Valkaria.Core.pdb
+D:\Kaio\Repositorios\git pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Core\obj\Debug\net6.0\Valkaria.Core.csproj.AssemblyReference.cache
+D:\Kaio\Repositorios\git pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Core\obj\Debug\net6.0\Valkaria.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaio\Repositorios\git pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Core\obj\Debug\net6.0\Valkaria.Core.AssemblyInfoInputs.cache
+D:\Kaio\Repositorios\git pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Core\obj\Debug\net6.0\Valkaria.Core.AssemblyInfo.cs
+D:\Kaio\Repositorios\git pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Core\obj\Debug\net6.0\Valkaria.Core.csproj.CoreCompileInputs.cache
+D:\Kaio\Repositorios\git pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Core\obj\Debug\net6.0\Valkaria.Core.dll
+D:\Kaio\Repositorios\git pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Core\obj\Debug\net6.0\ref\Valkaria.Core.dll
+D:\Kaio\Repositorios\git pessoal\ValkariaAPI\ValkariaAPI\Valkaria.Core\obj\Debug\net6.0\Valkaria.Core.pdb

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uN7+MfWltaeyuFUHxj5w0CcGdfZDDrkG/Ngah9k9sgtXRJKHY0d9TP9U0B6q4uCmDrhrLcenwIHUa+gRgZ6JkA==",
+  "dgSpecHash": "YexYWxmyCTrvATl/G8nftFb9DE2N3mlW7CfcLZF0MvsyTAXriX+BDiGF1Z4wm128jSjKBZP46Ehwgjmwy0/muA==",
   "success": true,
-  "projectFilePath": "C:\\Repositorios\\git Pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Application\\Valkaria.Application.csproj",
+  "projectFilePath": "D:\\Kaio\\Repositorios\\git pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Application\\Valkaria.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrador\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+    "C:\\Users\\kaiol\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }

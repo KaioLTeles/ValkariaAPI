@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositorios\\git Pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Infrastructure.Persistence\\Valkaria.Infrastructure.Persistence.csproj": {}
+    "D:\\Kaio\\Repositorios\\git pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Infrastructure.Persistence\\Valkaria.Infrastructure.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Repositorios\\git Pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Core\\Valkaria.Core.csproj": {
+    "D:\\Kaio\\Repositorios\\git pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Core\\Valkaria.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorios\\git Pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Core\\Valkaria.Core.csproj",
+        "projectUniqueName": "D:\\Kaio\\Repositorios\\git pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Core\\Valkaria.Core.csproj",
         "projectName": "Valkaria.Core",
-        "projectPath": "C:\\Repositorios\\git Pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Core\\Valkaria.Core.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorios\\git Pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Core\\obj\\",
+        "projectPath": "D:\\Kaio\\Repositorios\\git pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Core\\Valkaria.Core.csproj",
+        "packagesPath": "C:\\Users\\kaiol\\.nuget\\packages\\",
+        "outputPath": "D:\\Kaio\\Repositorios\\git pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kaiol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,24 +58,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Repositorios\\git Pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Infrastructure.Persistence\\Valkaria.Infrastructure.Persistence.csproj": {
+    "D:\\Kaio\\Repositorios\\git pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Infrastructure.Persistence\\Valkaria.Infrastructure.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorios\\git Pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Infrastructure.Persistence\\Valkaria.Infrastructure.Persistence.csproj",
+        "projectUniqueName": "D:\\Kaio\\Repositorios\\git pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Infrastructure.Persistence\\Valkaria.Infrastructure.Persistence.csproj",
         "projectName": "Valkaria.Infrastructure.Persistence",
-        "projectPath": "C:\\Repositorios\\git Pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Infrastructure.Persistence\\Valkaria.Infrastructure.Persistence.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorios\\git Pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Infrastructure.Persistence\\obj\\",
+        "projectPath": "D:\\Kaio\\Repositorios\\git pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Infrastructure.Persistence\\Valkaria.Infrastructure.Persistence.csproj",
+        "packagesPath": "C:\\Users\\kaiol\\.nuget\\packages\\",
+        "outputPath": "D:\\Kaio\\Repositorios\\git pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Infrastructure.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kaiol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -90,8 +90,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Repositorios\\git Pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Core\\Valkaria.Core.csproj": {
-                "projectPath": "C:\\Repositorios\\git Pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Core\\Valkaria.Core.csproj"
+              "D:\\Kaio\\Repositorios\\git pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Core\\Valkaria.Core.csproj": {
+                "projectPath": "D:\\Kaio\\Repositorios\\git pessoal\\ValkariaAPI\\ValkariaAPI\\Valkaria.Core\\Valkaria.Core.csproj"
               }
             }
           }
@@ -130,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
